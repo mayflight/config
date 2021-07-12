@@ -1,2 +1,3 @@
 config:
-  client: c1
+  client:
+     profile: line

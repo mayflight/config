@@ -1,0 +1,3 @@
+config:
+  client:
+    profile: dev
