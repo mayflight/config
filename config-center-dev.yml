@@ -1,5 +1,0 @@
-profile: dev
-config:
-  client:
-    profile: dev
-    uri: http://dev
